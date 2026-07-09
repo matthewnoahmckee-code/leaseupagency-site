@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leaseupagency.com/sitemap.xml
